@@ -648,14 +648,6 @@ table.plain {
     padding: 60px 0;
 }
 
-.post-content img {
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-    height:auto
-}
-
-
 /* The author credit area after the post */
 .post-footer {
     position: relative;
